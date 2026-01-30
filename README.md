@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Alex Saez
 
-<!--
-**alexxonline/alexxonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Engineering Manager**, passionate about leading teams, building meaningful products, and creating software that solves real problems.
 
-Here are some ideas to get you started:
+I love to **write**, **share ideas**, and **speak** about technology, leadership, and building great engineering cultures. I’m always exploring new ways to build better products and help others grow as engineers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 About Me
+
+- 📌 Engineering Manager based in Córdoba, Argentina. 
+- 💬 I write and speak about tech and leadership.  
+- 💡 I enjoy building tools, sample applications, and open-source projects.  
+- 🚀 I care deeply about mentoring others and helping engineering teams succeed.
+
+---
+
+## 💻 Current Projects
+
+- [Speak Well](https://github.com/alexxonline/speak-well) A tool for learning languages using AI.
+- **try_git** – A small repository, likely related to Git learning or experimentation. 
+- **aws-lambda-dynamo-samples** – Sample AWS Lambda functions with DynamoDB access. 
+- **design-stack** – CSS project with articles or design examples. 
+- **angularkeycontrols** – An Angular directive for keyboard control handling (based on a hotkeys plugin). 
+- **busmob-angular** – Example mobile application built with AngularJS. 
+
+---
+
+## 📫 Connect with Me
+
+- 💼 GitHub: https://github.com/alexxonline  
+- 🌐 Personal site: http://alexsaez.net 
+
+---
+
+
