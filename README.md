@@ -18,6 +18,7 @@ I love to **write**, **share ideas**, and **speak** about technology, leadership
 ## 💻 Current Projects
 
 - [Speak Well](https://github.com/alexxonline/speak-well) A tool for learning languages using AI and the ElevenLabs API.
+- [Favicon Forge](https://github.com/alexxonline/favicon-forge) A favicon generator using Nano Banana Model that generate SVGs icons.
 - [Book Tools](https://github.com/alexxonline/book-tools) - A tooling set in python for converting book to markdown and generating audiobooks.
 - [MCP Agent Demo](https://github.com/alexxonline/api-mcp-agent-demo) - A small project demostrating the creating of an MCP Server for accesing an API.
 - [Gemini Small Projects](https://github.com/alexxonline/gemini-small-projects) - A collections of small projects featuring the usage of the Gemini Model Family
