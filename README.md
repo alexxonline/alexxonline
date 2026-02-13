@@ -17,6 +17,7 @@ I love to **write**, **share ideas**, and **speak** about technology, leadership
 
 ## 💻 Current Projects
 
+- [Grammar Spark](https://github.com/alexxonline/grammarspark) A program for English grammar analysis with edit suggestions.
 - [Speak Well](https://github.com/alexxonline/speak-well) A tool for learning languages using AI and the ElevenLabs API.
 - [Favicon Forge](https://github.com/alexxonline/favicon-forge) A favicon generator using Nano Banana Model that generate SVGs icons.
 - [Book Tools](https://github.com/alexxonline/book-tools) - A tooling set in python for converting book to markdown and generating audiobooks.
