@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Alex Saez
 
-I’m an **Engineering Manager**, passionate about leading teams, building meaningful products, and creating software that solves real problems.
+I’m an **Technical Leader** with Engineering Manager experience, passionate about leading teams, building meaningful products, and creating software that solves real problems.
 
-I love to **write**, **share ideas**, and **speak** about technology, leadership, and building great engineering cultures. I’m always exploring new ways to build better products and help others grow as engineers.
+I love to **build**, **write**, **share ideas**, and **speak** about technology, leadership, and building great engineering cultures. I’m always exploring new ways to build better products and help others grow as engineers.
 
 ---
 
